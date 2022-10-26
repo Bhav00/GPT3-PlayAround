@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+          label {
+          font: 1rem 'Fira Sans', sans-serif;
+          }
+          div {
+            margin-bottom: 10px;
+          }
+          label {
+            display: inline-block;
+            width: 150px;
+          }
+          input {
+          margin: .4rem;
+      }
+        </style>
+      </head>
+      
+<body>
+
+<h2>Editing Json Files</h2>
+<p id="type">{{content["Fil"]}}</p>
+<a href="https://unicode.org/emoji/charts/emoji-list.html">EMOJIS CAN BE FOUND HERE</a> 
+<br><br>
+<form action="/editsave" method="POST">
+
+  <div><label for="prompt">Prompt Text:</label><br><br>
+    <textarea name="prompt" rows="10" cols="100"> {{content["prompt"]}}
+  </textarea> <br> </div>
+  <div><label for="settings">Settings:</label> <br><br>
+<textarea name="settings" rows="5" cols="100"> {{content["settings"]}}
+</textarea> <br> </div>
+  <br><br>
+  <input type="submit" value="Submit" action = "/editsave">
+</form> 
+
+<p>{{content["content"]}}</p>
+
+</body>
+</html>

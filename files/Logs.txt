@@ -1,0 +1,136 @@
+2022-04-12 12:10:08.764467+05:30 :
+Human: how are ya
+Bot: I'm doing well, thanks for asking. How about you?
+
+2022-04-12 12:10:08.764467+05:30 :
+Human: how are ya
+Bot: I'm doing well, thanks for asking. How about you?
+
+2022-04-12 12:10:18.510022+05:30 :
+Human: how are ya man
+Bot: I'm doing well, thank you for asking. How about you?
+
+2022-04-12 12:10:24.112318+05:30 :
+Human: how are ya man
+Bot: I'm doing well, thanks for asking. How about you?
+
+2022-04-12 12:10:34.417470+05:30 :
+Human: how are ya
+Bot: I'm doing well, thanks for asking. How about you?
+
+2022-04-12 12:11:41.567996+05:30 :
+Human: how are ya
+Bot: I'm doing well, how are you? \U0001F609
+
+2022-04-12 12:13:13.033966+05:30 :
+Human: how are ya man
+Bot: Hey there! I'm doing well, thanks for asking. \U0001F60A
+
+2022-04-12 12:18:56.532052+05:30 :
+Human: How are ya man
+Bot: What's up my dude! Haven't seen you in a while.
+
+2022-04-12 12:19:26.964919+05:30 :
+Human: How are ya
+Bot: Hey there! I'm doing well, thanks for asking!
+
+2022-04-12 19:23:52.894506+05:30 :
+Human: How are ya
+Bot: Hey there! I'm doing well, thanks for asking!
+
+2022-04-19 11:09:06.509263+05:30 :
+Human: Hello how are you
+Bot: I'm doing well, thank you for asking. How about you?
+
+2022-04-19 11:09:10.610702+05:30 :
+Human: I'm doing well, thank you for asking. How about you?
+Bot: I'm doing well, thank you for asking. How about you? 😃
+
+2022-04-19 11:10:15.425588+05:30 :
+Human: Hello how are you
+Bot: I'm doing well, thank you for asking. How about you?
+
+2022-04-19 11:10:18.533451+05:30 :
+Human: I'm doing well, thank you for asking. How about you?
+Bot: I'm doing well, thank you for asking. How about you? 😃
+
+2022-04-19 11:10:47.710332+05:30 :
+Human: How are you
+Bot: I'm doing well, thank you for asking. How about you?
+
+2022-04-19 11:10:48.474253+05:30 :
+Human: I'm doing well, thank you for asking. How about you?
+Bot: I'm doing well, thank you for asking. How about you? 😃
+
+2022-04-19 11:33:12.223034+05:30 :
+Human: hey
+Bot: Hello there! How can I help you?
+
+2022-04-19 11:33:13.224216+05:30 :
+Human: Hello there! How can I help you?
+Bot: Hello there! 👋 How can I help you? 😁
+
+2022-04-19 11:33:22.887285+05:30 :
+Human: hello
+Bot: Hello there! How can I help you?
+
+2022-04-19 11:33:23.992468+05:30 :
+Human: Hello there! How can I help you?
+Bot: Hello there! 👋 How can I help you? 😁
+
+2022-04-19 12:00:01.779563+05:30 :
+Human: hello
+Bot: Hello there! How can I help you?
+
+2022-04-19 12:00:03.148560+05:30 :
+Human: Hello there! How can I help you?
+Bot: Hello there! 👋 How can I help you? 😁
+
+2022-04-19 12:00:24.589427+05:30 :
+Human: 5000 was that last months bill including electricity
+Bot: Thank you for letting me help! The last months bill was 5000 which included electricity charges as well.
+
+2022-04-19 12:00:25.736251+05:30 :
+Human: Thank you for letting me help! The last months bill was 5000 which included electricity charges as well.
+Bot: Thank you for letting me help! The last months bill was 5000 which included electricity charges as well. 🙏
+
+2022-04-19 12:00:53.700751+05:30 :
+Human: I am looking for a gift for my wife
+Bot: What kind of gift do you think your wife would love?
+
+2022-04-19 12:00:55.433009+05:30 :
+Human: What kind of gift do you think your wife would love?
+Bot: What kind of gift 🎁 do you think your wife would love? 😍
+
+2022-04-19 12:01:07.183816+05:30 :
+Human: Can you let me know the status of my request
+Bot: Of course, dear. I will let you know as soon as I can.
+
+2022-04-19 12:01:09.000834+05:30 :
+Human: Of course, dear. I will let you know as soon as I can.
+Bot: Of course, dear. I will let you know as soon as I can. 💕
+
+2022-04-19 12:01:22.378518+05:30 :
+Human: When do you want the booking to be done
+Bot: I would love to have the booking done as soon as possible. What is your preferred timeframe?
+
+2022-04-19 12:01:23.478880+05:30 :
+Human: I would love to have the booking done as soon as possible. What is your preferred timeframe?
+Bot: I would love to have the booking done as soon as possible. What is your preferred timeframe? 🕰
+
+2022-04-19 12:01:43.455884+05:30 :
+Human: 5000 was that last months bill including electricity
+Bot: Thank you for letting me help! The last months bill was 5000 which included electricity charges as well.
+
+2022-04-19 12:01:46.732955+05:30 :
+Human: Thank you for letting me help! The last months bill was 5000 which included electricity charges as well.
+Bot: Thank you for letting me help! The last months bill was 5000 which included electricity charges as well. 🙏
+
+2022-04-19 12:03:02.638807+05:30 :
+Human: Hello
+Bot: Yo bruh how's it going
+
+2022-04-19 12:03:04.537121+05:30 :
+Human: Yo bruh how's it going
+Bot: Yo bruh how's it going 👋
+

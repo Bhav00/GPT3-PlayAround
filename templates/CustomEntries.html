@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    label {
+    font: 1rem 'Fira Sans', sans-serif;
+    }
+    div {
+      margin-bottom: 10px;
+    }
+    label {
+      display: inline-block;
+      width: 150px;
+    }
+    input {
+    margin: .4rem;
+}
+  </style>
+</head>
+
+<body>
+
+<h2>Please design your your own bot and make it answer through this page</h2><br><br>
+<a href="/help">HELLPPPP!!!!!!!!!</a> <br> 
+
+<datalist id="tickmarks">
+<option value="0"></option>
+<option value="0.1"></option>
+<option value="0.2"></option>
+<option value="0.3"></option>
+<option value="0.4"></option>
+<option value="0.5"></option>
+<option value="0.6"></option>
+<option value="0.7"></option>
+<option value="0.8"></option>
+<option value="0.9"></option>
+<option value="1"></option>
+</datalist>
+
+<datalist id="ticks">
+  <option value="1"></option>
+  <option value="2"></option>
+  <option value="3"></option>
+  <option value="4"></option>
+  <option value="5"></option>
+  <option value="6"></option>
+  <option value="7"></option>
+  <option value="8"></option>
+  <option value="9"></option>
+  <option value="10"></option>
+  </datalist>
+  
+
+<form action="/entries" method="POST">
+
+    <div><label for="engine">Engine</label> <input type="text" name="engine" value = "davinci"> </div>
+    <div><label for="temp">Temperature</label> 0<input name="temp" type="range" list="tickmarks" min="0" max="1" step = "0.1" value="0.9">1 </div>
+    <div><label for="top_p">Top_P</label> 0<input type="range" list="tickmarks" min="0" max="1" step = "0.1" value="1" name="top_p">1 </div>
+    <div><label for="stop">Stop</label> <input type="text" name="stop" value = "\nYou: "></div>
+    <div><label for="tokens">Max_tokens</label> <input type="text" name="tokens" min="5" max="400" value= "60">  </div>   
+    <div><label for="freq_pen">Frequecy_Penalty</label> 0<input type="range" list="tickmarks" min="0" max="1" step = "0.1" value="0.5" name="freq_pen">1 </div>
+    <div><label for="pres_pen">Presence_Penalty</label> 0<input type="range" list="tickmarks" min="0" max="1" step = "0.1" value="0.6" name="pres_pen">1 </div>
+    <div><label for="best_of">Best_Of</label> 1<input type="range" list="ticks" min="1" max="10" name="best_of" value="3">>10 </div>
+    <br>
+  <label for="prompt">Prompt:</label><br>
+  <textarea name="prompt" rows="6" cols="100">Human: Hello, who are you?
+Bot: I am OpenAI's GPT3. How can I help you today?
+  </textarea> <br>
+  
+  <label for="question">Question:</label><br>
+  <textarea id="ques" name="question" rows="4" cols="100"></textarea> <br>
+
+  <label for="answer">Answer:</label><br>
+  <p id="ans" name="answer">{{content}}</p>
+
+  <input type="submit" value="Submit" action = "/entries">
+
+</form> 
+
+</body>
+</html>

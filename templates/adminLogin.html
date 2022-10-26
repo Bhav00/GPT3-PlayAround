@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+          label {
+          font: 1rem 'Fira Sans', sans-serif;
+          }
+          div {
+            margin-bottom: 10px;
+          }
+          label {
+            display: inline-block;
+            width: 150px;
+          }
+          input {
+          margin: .4rem;
+      }
+        </style>
+      </head>
+      
+<body>
+
+<h2>Administrator Login</h2>
+
+<form action="/login" method="POST">
+  <input type="radio" id="genz" value="gen" name = "rad">
+  <label for="genz">GenZ</label><br>
+  <input type="radio" id="casual" value="cas" name = "rad">
+  <label for="casual">Casual</label><br>
+  <br><br>
+  <div><label for="log">Username:</label>
+  <input type="text" id="log" name = "username"> </div>
+  <div><label for="password">Password:</label>
+  <input type="password" id="pass" name = "password"> </div>
+  <br><br>
+  <input type="submit" value="Submit" action = "/login">
+</form> 
+<br><br>
+
+<p id="e" name="err">{{content}}</p>
+
+<br><br>
+
+</body>
+</html>

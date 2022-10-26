@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Question answers through bot</h2>
+
+<a href="/cust">CUSTOM</a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="/admin">Administrator</a> 
+
+<form action="/work" method="POST">
+  <p>Please select your bot answer style:</p>
+
+  <input type="radio" id="genz" value="gen" name = "rad">
+  <label for="genz">GenZ</label><br>
+  <input type="radio" id="casual" value="cas" name = "rad">
+  <label for="casual">Casual</label><br>
+  <input type="radio" id="gen2" value="gen2" name = "rad">
+  <label for="gen2">Test</label><br>
+  <br><br>
+  <label for="question">Question:</label><br><br>
+  <textarea id="ques" name="question" rows="4" cols="50"></textarea>
+  <br><br>
+  <input type="submit" value="Submit" action = "/work">
+</form> 
+<br><br>
+<label for="answer">Answer:</label><br>
+<p id="ans" name="answer">{{content}}</p>
+<br><br>
+
+</body>
+</html>

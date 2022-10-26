@@ -1,0 +1,5 @@
+{"temp" : 0.4,
+"top_p_val" : 1,
+"freq_pen" : 0.8,
+"pres_pen" : 0.7
+}
